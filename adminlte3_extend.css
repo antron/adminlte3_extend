@@ -1,0 +1,24 @@
+/* AdminLte3 拡張スタイルシート 2020-05-13 */
+
+table.listtable thead th {
+    text-align: center;
+    background-color: #f0f8ff;
+}
+
+table.detailtable {
+    margin-bottom: 3em;
+}
+
+table.detailtable th {
+    width: 30%;
+    background-color: #f0f8ff;
+}
+
+p.linkbutton {
+    text-align: right;
+    margin-top: 1em;
+}
+
+br.margintable {
+    margin-bottom: 0.5em;
+}
